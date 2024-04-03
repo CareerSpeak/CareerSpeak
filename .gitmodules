@@ -1,15 +1,28 @@
 [submodule "doc"]
-	path = doc
-	url = https://github.com/CareerSpeak/doc
+path = doc
+url = https://github.com/CareerSpeak/doc
+branch = final
+[submodule "doc"]
+path = doc
+url = https://github.com/CareerSpeak/doc
+branch = review
 [submodule "spellcheck"]
-	path = spellcheck
-	url = https://github.com/CareerSpeak/spellcheck
+path = spellcheck
+url = https://github.com/CareerSpeak/spellcheck
+branch = languagetool
 [submodule "backend"]
-	path = backend
-	url = https://github.com/CareerSpeak/backend
+path = backend
+url = https://github.com/CareerSpeak/backend
+branch = main
 [submodule "frontend"]
-	path = frontend
-	url = https://github.com/CareerSpeak/frontend
+path = frontend
+url = https://github.com/CareerSpeak/frontend
+branch = main
 [submodule "recommender"]
-	path = recommender
-	url = https://github.com/CareerSpeak/recommender
+path = recommender
+url = https://github.com/CareerSpeak/recommender
+branch = main
+[submodule "paraphraser"]
+path = paraphraser
+url = https://github.com/CareerSpeak/paraphraser
+branch = pretrained
