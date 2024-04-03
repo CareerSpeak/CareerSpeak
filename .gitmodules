@@ -1,0 +1,15 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/CareerSpeak/doc
+[submodule "spellcheck"]
+	path = spellcheck
+	url = https://github.com/CareerSpeak/spellcheck
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CareerSpeak/backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CareerSpeak/frontend
+[submodule "recommender"]
+	path = recommender
+	url = https://github.com/CareerSpeak/recommender
