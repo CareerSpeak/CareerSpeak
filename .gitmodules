@@ -26,3 +26,7 @@ branch = main
 path = paraphraser
 url = https://github.com/CareerSpeak/paraphraser
 branch = pretrained
+[submodule "technical_interview"]
+path = technical_interview
+url = https://github.com/CareerSpeak/technical_interview
+branch = main
