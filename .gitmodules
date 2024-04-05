@@ -26,3 +26,4 @@ branch = main
 path = paraphraser
 url = https://github.com/CareerSpeak/paraphraser
 branch = pretrained
+
