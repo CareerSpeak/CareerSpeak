@@ -2,10 +2,6 @@
 path = doc
 url = https://github.com/CareerSpeak/doc
 branch = final
-[submodule "doc"]
-path = doc
-url = https://github.com/CareerSpeak/doc
-branch = review
 [submodule "spellcheck"]
 path = spellcheck
 url = https://github.com/CareerSpeak/spellcheck
@@ -26,4 +22,15 @@ branch = main
 path = paraphraser
 url = https://github.com/CareerSpeak/paraphraser
 branch = pretrained
-
+[submodule "database"]
+	path = database
+	url = https://github.com/CareerSpeak/database
+[submodule "technical_interview"]
+	path = technical_interview
+	url = https://github.com/CareerSpeak/technical_interview
+[submodule "hr_interview"]
+	path = hr_interview
+	url = https://github.com/CareerSpeak/hr_interview
+[submodule "transcriber"]
+	path = transcriber
+	url = https://github.com/CareerSpeak/transcriber
